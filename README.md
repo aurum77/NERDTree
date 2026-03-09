@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/61130061/NERDTree/master/docs/icon.png" height="128"><br>NERDTree VSCode</h1>
 
-This extension is [NERDTree](https://github.com/preservim/nerdtree) keybinding like for [Visual Studio Code](https://code.visualstudio.com).
+This extension is a semi-maintained fork of [NERDTree](https://github.com/61130061/NERDTree) for keybindings like vim for [Visual Studio Code](https://code.visualstudio.com).
 
 <details>
 	<summary>🗄 <strong>Table of Contents</strong> (click to expand)</summary>
